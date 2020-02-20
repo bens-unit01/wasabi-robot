@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/socketio.jar"/>
+	<classpathentry kind="lib" path="libs/json-20090211.jar"/>
+	<classpathentry kind="lib" path="libs/okhttp-3.5.0.jar"/>
+	<classpathentry kind="lib" path="libs/okio-1.11.0.jar"/>
+	<classpathentry kind="lib" path="libs/vlcj-2.4.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

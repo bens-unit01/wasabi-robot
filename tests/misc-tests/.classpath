@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_111"/>
+	<classpathentry kind="lib" path="libs/json-20090211.jar"/>
+	<classpathentry kind="lib" path="libs/okhttp-3.5.0.jar"/>
+	<classpathentry kind="lib" path="libs/okio-1.11.0.jar" sourcepath="C:/Users/raouf/.m2/repository/com/squareup/okio/okio/1.11.0/okio-1.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="libs/vlcj-2.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/jlayer-1.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jna-3.5.2.jar"/>
+	<classpathentry kind="lib" path="libs/socket.io-client-1.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/engine.io-client-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
